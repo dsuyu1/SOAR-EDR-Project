@@ -1,2 +1,3 @@
 # SOAR EDR Project
-In this project, I learn how to automate security workflows, and enhance my cybersecurity posture effectively. 
+## Introduction
+In this project, I learn how to automate security workflows and enhance my cybersecurity posture effectively. 

@@ -1,4 +1,6 @@
+<p align = "center">
 <img src="https://i.imgur.com/VfFPlSE.png" width="400">
+</p>
 
 # SOAR EDR Project
 ## Overview

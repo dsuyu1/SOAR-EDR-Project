@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://i.imgur.com/VfFPlSE.png" width="400">
+<img src="https://ml-eu.globenewswire.com/Resource/Download/bba2f6b9-de48-4b2b-80cf-e1af0881d59d" width="400">
 </p>
 
 # SOAR EDR Project
